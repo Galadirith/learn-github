@@ -53,5 +53,5 @@ followed on MyBinder.
 `learn-github` is released under the [MIT license][license].
 
 [license]: LICENSE.md
-[azure]: https://notebooks.azure.com/import/gh/Galadirith/learn-github-test
+[azure]: https://notebooks.azure.com/import/gh/Galadirith/learn-github
 [binder]: https://mybinder.org/v2/gh/Galadirith/learn-github-test/master?urlpath=lab/tree/learn-github/1-introduction.ipynb
