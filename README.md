@@ -44,6 +44,13 @@ MyBinder.
   automatically take you to a webpage where your interactive environment will
   be created and the `1-introduction.ipynb` will be opened for you.
 
+## Acknowledgements
+
+This workshop was inspired by the fantastic
+[`git-it-electron`](https://github.com/jlord/git-it-electron) created by
+[Jessica Lord](https://github.com/jlord) and built on a previous tutorial
+presented by [Duncan Macleod](https://github.com/duncanmmacleod).
+
 ## I've completed this workshop 🎉
 
 - [Edward Fauchon-Jones](https://github.com/Galadirith)
