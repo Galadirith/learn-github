@@ -3,6 +3,7 @@
 
 [![Azure Notebooks](https://notebooks.azure.com/launch.png)][azure]
 [![Binder](https://mybinder.org/badge.svg)][binder]
+[![Slides](https://img.shields.io/badge/slides-learn--github-yellow.svg)][slides]
 
 ## Setting up
 
@@ -14,6 +15,9 @@ To follow along with this interactive workshop you will need a free
 [GitHub account](https://github.com/join). You can follow the links to create
 these accounts now, or you can create them when they are needed during the
 workshop.
+
+You can also find a set of accompanying Google Slides at
+[![Slides](https://img.shields.io/badge/slides-learn--github-yellow.svg)][slides].
 
 ## Getting started
 
@@ -62,3 +66,4 @@ presented by [Duncan Macleod](https://github.com/duncanmmacleod).
 [license]: LICENSE.md
 [azure]: https://notebooks.azure.com/import/gh/Galadirith/learn-github
 [binder]: https://mybinder.org/v2/gh/Galadirith/learn-github/master?urlpath=lab/tree/learn-github/1-introduction.ipynb
+[slides]: https://docs.google.com/presentation/d/1meylnPgFfxCvg-oaSqz9ob8IWs7yB8BKH3INQEa7MbQ/edit?usp=sharing
