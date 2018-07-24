@@ -18,8 +18,8 @@ workshop.
 ## Getting started
 
 To start the workshop you can use either Microsofts Azure or MyBinder.
-Microsoft Azure is the prefered way as notebook 3 and notebook 4 cannot be
-followed on MyBinder.
+Microsoft Azure is the preferred way as notebook 4 cannot be followed on
+MyBinder.
 
 - **Microsoft Azure** [![Azure Notebooks](https://notebooks.azure.com/launch.png)][azure]  
 
