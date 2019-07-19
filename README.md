@@ -58,7 +58,8 @@ presented by [Duncan Macleod](https://github.com/duncanmmacleod).
 ## I've completed this workshop 🎉
 
 - [Edward Fauchon-Jones](https://github.com/Galadirith)
--Sam Peterson
+- Sam Peterson
+- [Rafael Mosca](https://github.com/rfma23)
 
 ## License
 
