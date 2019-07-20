@@ -30,17 +30,34 @@ MyBinder.
   Click the link
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)][azure]. This
   will take you to a new webpage that will ask you to import the repository.
+
+  ![](img/azure-init-1.png)
+
   Click the `Import` button. You will then be asked to sign in with you
   Microsoft account. If you haven't already created one then you can create one
-  now. Once you have logged in you will see a new window `Create New Library`.
+  now. Once you have logged in you will see a new window `Upload GitHub Repository`.
 
-  ![](img/azure-import.png)
+  ![](img/azure-init-2.png)
 
-  You can leave all of the setting as their defaults. Press `Import`. Once
-  the import has finished click on the link `learn-github`. Finally right
-  click on the file `1-introduction.ipynb` and press `Run In JupyterLab (j)`.
+  You can leave all of the setting as their defaults. Click the `Import`
+  button. After a few minutes a new project will be created for you.
 
-  ![](img/run-lab.png)
+  ![](img/azure-init-3.png)
+
+  Click the button with the label `Run on Free Co...`. This will open a
+  new tab which will display all the files you will need to follow this
+  workshop.
+
+  ![](img/azure-init-4.png)
+
+  You should wait for 5 minutes to allow your project to be initialised.
+  This will make sure that all the notebooks in this workshop can run.
+  After waiting five minues you can click on the `learn-github` folder
+  link. This will display a list of all the notebooks for this workshop.
+
+  ![](img/azure-init-5.png)
+
+  Finally click on the file `1-introduction.ipynb` to begin the workshop.
 
 - **MyBinder** [![Binder](https://mybinder.org/badge.svg)][binder]
 
