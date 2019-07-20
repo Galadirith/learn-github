@@ -33,9 +33,10 @@ MyBinder.
 
   ![](img/azure-init-1.png)
 
-  Click the `Import` button. You will then be asked to sign in with you
+  Click the `Import` button. You will then be asked to sign in with your
   Microsoft account. If you haven't already created one then you can create one
-  now. Once you have logged in you will see a new window `Upload GitHub Repository`.
+  now. Once you have logged in you will see a new window
+  `Upload GitHub Repository`.
 
   ![](img/azure-init-2.png)
 
@@ -50,7 +51,7 @@ MyBinder.
 
   ![](img/azure-init-4.png)
 
-  You should wait for 5 minutes to allow your project to be initialised.
+  You should wait for 5 minutes to allow your new project to be initialised.
   This will make sure that all the notebooks in this workshop can run.
   After waiting five minues you can click on the `learn-github` folder
   link. This will display a list of all the notebooks for this workshop.
@@ -84,5 +85,5 @@ presented by [Duncan Macleod](https://github.com/duncanmmacleod).
 
 [license]: LICENSE.md
 [azure]: https://notebooks.azure.com/import/gh/Galadirith/learn-github
-[binder]: https://mybinder.org/v2/gh/Galadirith/learn-github/master?urlpath=lab/tree/learn-github/1-introduction.ipynb
+[binder]: https://mybinder.org/v2/gh/Galadirith/learn-github/master?urlpath=tree/learn-github/1-introduction.ipynb
 [slides]: https://docs.google.com/presentation/d/1meylnPgFfxCvg-oaSqz9ob8IWs7yB8BKH3INQEa7MbQ/edit?usp=sharing
