@@ -78,6 +78,7 @@ presented by [Duncan Macleod](https://github.com/duncanmmacleod).
 - [Edward Fauchon-Jones](https://github.com/Galadirith)
 - Sam Peterson
 - [Rafael Mosca](https://github.com/rfma23)
+- [Lukas Thaler](https://github.com/lukasthaler)
 
 ## License
 
